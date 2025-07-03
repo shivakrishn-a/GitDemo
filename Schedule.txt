@@ -1,0 +1,7 @@
+Good Afternoon, first of all i thank you for giving this opportunity, My name is Shiva Krishna, and i am from Nirmal, currently staying in Hyd.
+I am graduated from Osmania University, After the graduation i have joined an Training Institute where i gained skills in Manual 
+and Automation testing. As part of manual testing i have gained knowledge in SDLC, SDLC Models, STLC, Bug Life Cycle, Writing Test Cases, and Test design techniques and Postman for API Testing. 
+Coming to Automation i am skilled in using selenium with Java, have knowledge on Maven and TestNG.
+Apart from that i have worked for 7 months in a project at Salzer Technologies, where i gained experience in automating Test Cases
+
+ 
